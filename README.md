@@ -8,7 +8,7 @@ Sampling information and MorphoJ input files are available here: https://doi.org
 Sampling information and MorphoJ input files are available here: https://doi.org/10.5061/dryad.ms7q2q4
 
 # Photographs and digitisation files
-These files are ~175 GB and ~15 GB for the tuatara, and so please contact me to request these files. For further information, including the storage of specimens, please visit: https://sites.google.com/view/evauxlution/data
+These files are ~175 GB for the true whelks and ~15 GB for the tuatara, and so please contact me to request these files. For further information, including the storage of specimens, please visit: https://sites.google.com/view/evauxlution/data
 
 # Associated papers
 Vaux F, Gemmell MR, Hills SFK, Marshall BA, Beu AG, Crampton JSC, Trewick SA, Morgan-Richards M. (2020). Lineage identification affects estimates of evolutionary mode in marine snails. Systematic Biology (accepted, in press).

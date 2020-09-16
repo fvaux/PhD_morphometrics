@@ -1,5 +1,5 @@
 # PhD_morphometrics
-R scripts for geometric morphometric analyses (3D scatterplots, broken-stick test for PC retention, CVA, mclust, paleoTS) conducted on buccinoid true whelk shells (Aeneator, Antarctoneptunea, Kelletia, Penion) and tuatara dentary bones. I recommend checking the original literature and manuals for all called packages.
+R scripts for 2D landmark-based, geometric morphometric analyses conducted on buccinoid true whelk shells (Aeneator, Antarctoneptunea, Kelletia, Penion) and tuatara dentary bones. Scripts are for 3D scatterplots, broken-stick test for PC retention, CVA, mclust, and paleoTS. I recommend checking the original literature and manuals for all called packages.
 
 # Morphometric data for true whelk shells
 Sampling information and MorphoJ input files are available here: https://doi.org/10.5061/dryad.gqnk98sh6 and http://dx.doi.org/10.17632/kxnfyz73sh.1
